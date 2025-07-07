@@ -23,5 +23,5 @@ To provide a transparent and tamper-proof voting process using smart contracts.
 - **Network**: Core Blockchain Testnet 2
 
 ## 📸 Transaction Screenshot
-![Deployment Screenshot](your-screenshot-file-name.png)
+![Deployment Screenshot](Screenshot 2025-07-07 185241.png)
 
