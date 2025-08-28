@@ -20,7 +20,7 @@ To provide a transparent and tamper-proof voting process using smart contracts.
 ## ⚙️ Contract Info
 - **Contract Address**: `0x3Cb3b16dD342BDA83187a30811A410484C92b979`
 - **Transaction Hash**: `0x159ca0b87a60e13d814a8f6ec765601c041c84651c417ebbce33b044a47b0af0`
-- **Network**: Core Blockchain Testnet 2
+- **Network**: Core Blockchain Testnet 2.
 
 ## 📸 Transaction Screenshot
 ![Deployment Screenshot](transaction.png)
